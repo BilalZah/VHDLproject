@@ -1,0 +1,11 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Temp/Documents/YEAR 2/VHDL/PROJECT/CONTENTMENT BUTTONS/CONTENTMENT BUTTONS.srcs/sources_1/new/button_debouncer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Button_Debouncer'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Temp/Documents/YEAR 2/VHDL/PROJECT/CONTENTMENT BUTTONS/CONTENTMENT BUTTONS.srcs/sources_1/new/counter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Counter'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Temp/Documents/YEAR 2/VHDL/PROJECT/CONTENTMENT BUTTONS/CONTENTMENT BUTTONS.srcs/sources_1/new/display.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Display'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Temp/Documents/YEAR 2/VHDL/PROJECT/CONTENTMENT BUTTONS/CONTENTMENT BUTTONS.srcs/sources_1/new/control_unit.v" into library xil_defaultlib
+ERROR: [VRFC 10-4982] syntax error near '/' [C:/Users/Temp/Documents/YEAR 2/VHDL/PROJECT/CONTENTMENT BUTTONS/CONTENTMENT BUTTONS.srcs/sources_1/new/control_unit.v:2]
+INFO: [VRFC 10-3107] analyzing entity 'Control_Unit'
+ERROR: [VRFC 10-3782] unit 'control_unit' ignored due to previous errors [C:/Users/Temp/Documents/YEAR 2/VHDL/PROJECT/CONTENTMENT BUTTONS/CONTENTMENT BUTTONS.srcs/sources_1/new/control_unit.v:26]
+INFO: [VRFC 10-3070] VHDL file 'C:/Users/Temp/Documents/YEAR 2/VHDL/PROJECT/CONTENTMENT BUTTONS/CONTENTMENT BUTTONS.srcs/sources_1/new/control_unit.v' ignored due to errors
