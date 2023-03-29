@@ -1,9 +1,10 @@
 # compile vhdl design source files
 vhdl xil_defaultlib  \
-"../../../../CONTENTMENT BUTTONS.srcs/sources_1/new/button_debouncer.vhd" \
-"../../../../CONTENTMENT BUTTONS.srcs/sources_1/new/counter.vhd" \
-"../../../../CONTENTMENT BUTTONS.srcs/sources_1/new/display.vhd" \
-"../../../../CONTENTMENT BUTTONS.srcs/sources_1/new/warning_light.vhd" \
+"../../../../ACTUALPROJECT.srcs/sources_1/new/button_debouncer.vhd" \
+"../../../../ACTUALPROJECT.srcs/sources_1/new/control_unit.v" \
+"../../../../ACTUALPROJECT.srcs/sources_1/new/counter.vhd" \
+"../../../../ACTUALPROJECT.srcs/sources_1/new/display.vhd" \
+"../../../../ACTUALPROJECT.srcs/sim_1/new/control_unit_TB.vhd" \
 
 # Do not sort compile order
 nosort
