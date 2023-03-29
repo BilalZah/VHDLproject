@@ -41,7 +41,7 @@ entity Counter is
         reset           : in  std_logic;
         pause           : in  std_logic;
         debounced_button: in  std_logic_vector(3 downto 0);
-        counter_values  : out std_logic_vector(15 downto 0)
+        counter_values  : inout std_logic_vector(15 downto 0)
     );
 end Counter;
 

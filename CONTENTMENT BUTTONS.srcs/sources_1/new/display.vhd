@@ -21,17 +21,6 @@
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
-
--- Uncomment the following library declaration if using
--- arithmetic functions with Signed or Unsigned values
---use IEEE.NUMERIC_STD.ALL;
-
--- Uncomment the following library declaration if instantiating
--- any Xilinx leaf cells in this code.
---library UNISIM;
---use UNISIM.VComponents.all;
-library IEEE;
-use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.STD_LOGIC_ARITH.ALL;
 use IEEE.STD_LOGIC_UNSIGNED.ALL;
 
@@ -75,7 +64,7 @@ begin
             when "0001" => seg_temp := "1111001";
             when "0010" => seg_temp := "0100100";
             when "0011" => seg_temp := "0110000";
-                        when "0100" => seg_temp := "0011001";
+            when "0100" => seg_temp := "0011001";
             when "0101" => seg_temp := "0010010";
             when "0110" => seg_temp := "0000010";
             when "0111" => seg_temp := "1111000";
